@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">KeyboardApp</string>
+    <string name="key_down">Нажата клавиша</string>
+    <string name="long_press">Долгое нажатие</string>
+</resources>
